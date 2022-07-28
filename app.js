@@ -45,3 +45,11 @@ console.log(typeof sym);
 //undefine
 const und = undefined;
 console.log(typeof undefined);
+
+//object in javaScript
+
+let obj ={
+    nam: "Tamim",
+    age: 28
+}
+console.log(obj);
